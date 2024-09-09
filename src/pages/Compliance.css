@@ -1,0 +1,33 @@
+/* Compliance Page Styling */
+.compliance-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+    min-height: 100vh;
+  }
+  
+  .compliance-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #222;
+    text-align: center;
+  }
+  
+  .compliance-record {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .compliance-record h4 {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .compliance-record p {
+    margin: 5px 0;
+    color: #666;
+  }
+  
